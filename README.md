@@ -8,7 +8,7 @@ Etape 3  : J'attends que l'eau bouillisse
 Etape 4  : Je verse les pâtes dans la casserole
 Etape 5  : J'ajoute un peu de sel
 Etape 6  : Je remue pendant 5 minutes
-Etape 7  : ???
+Etape 7  : J'égoutte les pâtes dans une passoire
 Etape 8  : ???
 Etape 9  : ???
 Etape 10 : ???
