@@ -2,7 +2,7 @@
 *      Faire des pates       *
 ******************************
 
-Etape 1  : ??? 
+Etape 1  : Je mets de l'eau froide dans une casserole
 Etape 2  : ???
 Etape 3  : ???
 Etape 4  : ???
