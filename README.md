@@ -3,7 +3,7 @@
 ******************************
 
 Etape 1  : Je mets de l'eau froide dans une casserole
-Etape 2  : ???
+Etape 2  : Je mets la casserole sur le feu
 Etape 3  : ???
 Etape 4  : ???
 Etape 5  : ???
