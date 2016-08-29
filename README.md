@@ -12,5 +12,5 @@ Etape 7  : J'égoutte les pâtes dans une passoire
 Etape 8  : Je les transverse dans un plat adapté
 Etape 9  : J'ajoute de la sauce
 Etape 10 : Je remue le tout
-Etape 11 : ???
+Etape 11 : C'est prêt :)
 
