@@ -6,7 +6,7 @@ Etape 1  : Je mets de l'eau froide dans une casserole
 Etape 2  : Je mets la casserole sur le feu
 Etape 3  : J'attends que l'eau bouillisse
 Etape 4  : Je verse les pâtes dans la casserole
-Etape 5  : ???
+Etape 5  : J'ajoute un peu de sel
 Etape 6  : ???
 Etape 7  : ???
 Etape 8  : ???
