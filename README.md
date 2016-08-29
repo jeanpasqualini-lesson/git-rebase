@@ -1,7 +1,7 @@
 ******************************
 *      Faire des pates       *
 ******************************
-
+Etape 0  : J'achètes des pates
 Etape 1  : Je mets de l'eau froide dans une casserole
 Etape 2  : Je mets la casserole sur le feu
 Etape 3  : J'attends que l'eau bouillisse
